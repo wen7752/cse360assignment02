@@ -3,6 +3,7 @@
 * @author Wen Fang
 * @data 10/05/2020
 * @version 2.0
+* @github https://github.com/wen7752/cse360assignment02
 */ 
 package cse360assignment02;
 
@@ -10,7 +11,7 @@ public class AddingMachine {
 
 	//initialize the variables 
 	private int total;
-	private String result = "";
+	private String result = "0";
 		
 	  	  public AddingMachine () {
 			 total = 0;
